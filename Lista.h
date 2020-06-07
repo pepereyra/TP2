@@ -4,7 +4,7 @@
 #include "Nodo.h"
 
 /*
- * Una Lista es una colección dinámica de elementos dispuestos en una secuencia.
+ * Uaaana Lista es una colección dinámica de elementos dispuestos en una secuencia.
  *
  * Define operaciones para agregar, remover, acceder y cambiar elementos
  * en cualquier posición.
